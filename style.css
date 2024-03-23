@@ -1,0 +1,183 @@
+* html {
+    height: 100%;
+    width:100%;
+}
+
+body {
+    height:100%;
+    width:100%;
+    background-color: grey;
+}
+
+header {
+    background-color: white;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+}
+
+nav{
+    background-color: white;
+    padding: 3px;
+} 
+ 
+ ul li{
+ display: inline;
+ margin: 6px;
+     
+ }  
+
+ul li a {
+    text-decoration: none;
+} 
+
+.home{
+    background-image:url("em.jpg");
+    height:100px;
+    width:100%;
+    padding-top: 15px;
+}
+
+.home h3{
+    color:green;
+    text-align: center;
+
+
+}
+.home p{
+    color: black;
+    text-align: center;
+}    
+
+.food {
+    background-color: white;
+    height: 100%;
+    width: 100%;
+}
+
+.food h2{
+    color: blue;
+    text-align: center;
+    text-decoration:underline;
+}
+
+.egwusi img{
+    height:40%;
+    width:50%;
+    padding-left:70px;
+    
+}
+
+.egwusi p{
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 0px;
+}
+.okra img {
+    height: 40%;
+    width: 50%;
+    padding-left:80px;
+    
+}
+
+.monky img{
+    height: 50%;
+    width: 50%;
+    padding-left:80px;
+}
+
+.monky p {
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 0px;
+}
+
+.drinks {
+    background-color: white;
+    height: 100%;
+    width: 100%;
+}
+.drinks h2 {
+    text-align: center;
+    color: blue;
+    text-decoration:  underline;
+}
+
+.skinny img{
+    height: 50%;
+    width: 50%;
+    padding-left:80px;
+    
+}
+
+.skinny h2 {
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+}
+
+.skinny p {
+    text-align: center;
+    padding-left:20px;
+    padding-right: 20px;
+    margin-top: 0px;
+}
+
+.port img{
+    height:50%;
+    width: 50%;
+    padding-left:80px;
+}
+.port h2{
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+}
+
+.port p {
+    text-align: center;
+    padding-left:20px;
+    padding-right: 20px;
+    margin-top: 0px;
+}
+
+
+.about_us {
+    background-color: white;
+    height: 100%;
+    width: 100%;
+}
+.about_us h2{
+    color: blue;
+    text-align: center;
+    text-decoration: underline;
+    
+}
+.about_us p{
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    height: 100%;
+    width: 100%;
+    padding-bottom: 10px;
+}
+footer h2 {
+    padding-top: 5px;
+    text-decoration: underline;
+}
+footer p {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+footer h3 {
+    color: yellow;
+}
+
+  
